@@ -22,7 +22,7 @@ System.out.println("Greter Than 5 : ");
 eval(jesus,n -> n>5);
 
 
-
+System.out.println("Love you God so much");
 	}
 	
 	public static void eval(List<Integer> jesus,Predicate<Integer> predicte)
